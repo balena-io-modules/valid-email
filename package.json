@@ -1,5 +1,5 @@
 {
-  "name": "@resin.io/valid-email",
+  "name": "@balena.io/valid-email",
   "version": "0.1.0",
   "description": "Test the validity of an email address",
   "keywords": ["valid", "email", "test", "validity", "check"],
