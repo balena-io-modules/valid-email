@@ -1,8 +1,14 @@
 {
   "name": "@balena.io/valid-email",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "Test the validity of an email address",
-  "keywords": ["valid", "email", "test", "validity", "check"],
+  "keywords": [
+    "valid",
+    "email",
+    "test",
+    "validity",
+    "check"
+  ],
   "author": "John Henry <john@iamjohnhenry.com>",
   "homepage": "https://github.com/johnhenry/valid-email",
   "scripts": {
